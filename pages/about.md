@@ -10,13 +10,13 @@ Actuellement, des services internet diversifiés voient le jour pour mettre en r
 Karibou ambitionne d'investir durablement ce marché en pleine expansion. Il propose un environnement de commerce commun pour faciliter l'entrée dans l'action de l'achat local. Sa particularité se décline autour de 3 principaux axes :
 
 
-##PLATEFORME COLLABORATIVE
-- Les producteurs et commerçants se réunissent pour offrir un marché complet sur internet. Karibou prélève une marge de 15 % sur chaque vente.
+####PLATEFORME COLLABORATIVE
+>Les producteurs et commerçants se réunissent pour offrir un marché complet sur internet. Karibou prélève une marge de 15 % sur chaque vente.
 
-##APPLICATION MULTI-DEVICES
-- Le client dispose d'un unique point d'entrée ou il peut accéder à ses producteurs et commerçants préférés. Il effectue ses commandes aussi bien depuis son ordinateur, sa tablette ou son téléphone portable.
+####APPLICATION MULTI-DEVICES
+>Le client dispose d'un unique point d'entrée ou il peut accéder à ses producteurs et commerçants préférés. Il effectue ses commandes aussi bien depuis son ordinateur, sa tablette ou son téléphone portable.
 
-##STRUCTURE LÉGÈRE
-Karibou gère en flux tendu et en partenariat le regroupement et la livraison des produits à domicile. Il n'a ni entrepôt, ni stocks, ni camion de livraison.
+####STRUCTURE LÉGÈRE
+>Karibou gère en flux tendu et en partenariat le regroupement et la livraison des produits à domicile. Il n'a ni entrepôt, ni stocks, ni camion de livraison.
 
 L'objectif collatéral mais primordial de Karibou est de favoriser le développement du tissu économique local et de créer du lien entre la ville et la campagne. En associant des petits producteurs, artisans et revendeurs qui répondent à des critères de préservation de l'environnement, de santé et de qualité de vie, il se positionne dans une économie durable et de proximité.
