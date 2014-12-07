@@ -22,11 +22,10 @@ Les denrées qui ne peuvent pas être produites dans la région ou qui apportent
 ####Pour les agriculteurs, cultivateurs
 - Vous exploitez une surface de dimension humaine adaptée aux types de culture ;
 - Votre production est si possible biologique mais dans tous les cas respectueuse de l'environnement, de la nature et de l'animal :
-
-développement d'une biodiversité
-fertilité des sols
-production sans engrais, pesticides, herbicides, fongicides chimiques de 	synthèse	
-gestion économique de l'eau.
+ - développement d'une biodiversité
+ - fertilité des sols
+ - production sans engrais, pesticides, herbicides, fongicides chimiques de 	synthèse	
+ - gestion économique de l'eau.
 
 ####Pour les éleveurs
 - Vous pratiquez un élevage respectueux de l'animal et de ses besoins ;
