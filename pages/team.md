@@ -11,4 +11,3 @@
 >Passionnée de nature et de nutrition, je me suis naturellement sentie attirée par le projet Karibou. Ma contribution est de révéler à l’oeil la saveur des produits proposés.
 
 --
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
