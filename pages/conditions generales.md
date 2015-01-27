@@ -6,17 +6,17 @@
 
 La plateforme de communication Karibou ([karibou.ch](http://karibou.ch)) facilite la connexion entre des individus qui souhaitent acheter des produits alimentaires et une sélection de boutiques répondant à la charte de Karibou qui souhaitent former un marché commun sur internet et proposer à une clientèle élargie une diversité de produits livrables à domicile.
 
-Le client mandate Karibou pour effectuer l'achat et la collecte des marchandises auprès des différentes boutiques ainsi que la livraison au client dans des délais et conditions garantissant l'impeccabilité du produit. 
+Le client mandate Karibou pour effectuer l'achat et la collecte des marchandises auprès des différentes boutiques ainsi que la livraison à domicile ou à l’adresse spécifiée par le client pour autant qu’elle se situe dans le périmètre défini par Karibou (cf point "Lieu de livraison").
 
 ## Responsabilité
 
 Le client reconnaît et accepte que Karibou agisse comme intermédiaire pour collecter et livrer 
 
-ses produits au jour et lieu choisis. Le client accepte de payer l’intégralité de ses produits à Karibou qui est responsable de reverser le montant du à chaque boutique.
+ses produits au jour et lieu choisis. Le client accepte de payer l’intégralité de ses produits à Karibou qui est responsable de reverser le montant dû à chaque boutique.
 
 La boutique s’engage à proposer des produits à prix inférieur ou équivalent à ceux pratiqués dans son propre commerce. 
 
-La boutique a la responsabilité de fournir des produits de première fraîcheur et qualité et conformes à la description présentée sur le site karibou.ch.  Elle est également responsable des informations publiées sur le site karibou.ch (par ex. descriptions, ingrédients, poids). 
+La boutique a la responsabilité de fournir des produits de première fraîcheur et qualité et conformes à la description présentée sur le site [karibou.ch](http://karibou.ch).  Elle est également responsable des informations publiées sur le site [karibou.ch](http://karibou.ch) (par ex. descriptions, ingrédients, poids). 
 
 Concernant les produits à la coupe, elle s'engage à les conditionner le jour de la livraison.
 
@@ -24,7 +24,7 @@ Karibou s’engage à collecter auprès des boutiques tous les produits d’un c
 
 ## Garantie client
 
-Si le client n’est pas satisfait des produits livrés, il peut contacter Karibou par e-mail à info@karibou.ch. Toute réclamation doit se faire dès réception de la marchandise, c’est-à-dire le jour même de la livraison, au plus tard le lendemain. Le montant correspondant à la marchandise défectueuse sera remboursé au client.
+Si le client n’est pas satisfait des produits livrés, il peut contacter Karibou par e-mail à info@karibou.ch. Toute réclamation doit se faire dès réception de la marchandise, c’est-à-dire le jour même de la livraison, au plus tard le lendemain. La boutique s’engage à rembourser au client le montant correspondant à la marchandise défectueuse ou, d’entente avec le client, à remplacer le produit.
 
 Karibou se réserve le droit d’exiger des preuves du défaut auprès du client avant d'effectuer le remboursement.
 
@@ -32,7 +32,7 @@ La garantie porte sur des défauts liés aux aspects suivants : fraîcheur, qual
 
 ## Produits
 
-Karibou estime que les informations données sur les produits (par ex. desciption, ingrédients, poids) sont correctes.
+Karibou estime que les informations données sur les produits (par ex. description, ingrédients, poids) sont correctes.
 
 Comme pour tout produit alimentaire, le consommateur est cependant prié de vérifier de possibles contre-indications avant absorption (par ex. en cas d’allergie) sur le paquet du produit ou sur le site karibou.ch. Le consommateur peut en tout temps contacter une boutique pour avoir une information complémentaire sur un produit.
 
@@ -52,7 +52,7 @@ Tous les prix incluent la TVA selon les taux en vigueur.
 
 Le prix des produits au poids est indiqué clairement. 
 
-Concernant les produits à poids variable, le prix final final facturé sera ajusté en fonction du poids exact.
+Concernant les produits à poids variable, le prix final facturé sera ajusté en fonction du poids exact.
 
 Les coûts annexes par exemple frais de port, supplément pour certains moyens de paiement ne sont pas inclus dans le prix. Ils sont indiqués séparément et sont ou peuvent être facturés en sus.
 
@@ -68,9 +68,7 @@ ultérieurement. En revanche Karibou peut contacter le client et, avec son accor
 
 trouver un produit similaire de substitution.
 
-En Suisse, l'achat de toute boisson alcoolisée est interdit par la loi aux personnes âgées de 
-
-moins de 18 ans. En achetant de tels articles, le client s'engage à être âgé de 18 ans ou plus.
+En Suisse, l'achat de toute boisson alcoolisée est réglementé par la loi. En achetant de tels articles, le client s'engage à avoir l’âge légal pour acquérir de tels produits. Les boissons alcooliques sont interdites aux jeunes de moins de 16 ans et toute boisson distillée (spiritueux, apéritifs purs ou dilués et alcopops) aux jeunes de moins de 18 ans.
 
 ## Confirmation de commande
 
@@ -118,4 +116,4 @@ En cas de désaccord ou de litige, le client s’engage à collaborer à une mé
 
 Téléphone : 079 377 21 13 / email : info@karibou.ch
 
-Le for juridique de Karibou est sis à Genève et, sous réserve de recours au tribunal fédéral, seuls les tribunaux genevois sont compétents à régler les litiges résultant de l’interprétation et/ou de l’inexécution des présentes conditions.
+Le for juridique de Karibou est sis à Genève, 34 route de Chêne, 1208 Genève et, sous réserve de recours au tribunal fédéral, seuls les tribunaux genevois sont compétents à régler les litiges résultant de l’interprétation et/ou de l’inexécution des présentes conditions.
