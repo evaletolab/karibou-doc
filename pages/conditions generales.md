@@ -76,7 +76,7 @@ Après la confirmation de la commande par Karibou, les articles commandés sont 
 
 ## Horaires de livraison
 
-> Le client sélectionne sa date de livraison, la livraison s’effectue entre 16h et 18h.
+Le client sélectionne sa date de livraison, la livraison s’effectue entre 16h et 18h.
 
 Les heures de livraison peuvent varier à l’intérieur du créneau horaire et occasionnellement se situer en dehors de ce créneau.
 
