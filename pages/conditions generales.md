@@ -2,7 +2,7 @@
 
 ## Service
 
-Karibou est un facilitateur entre le "client" et le producteur, commerçant, artisan, dénommés ici “boutique”.
+> Karibou est un facilitateur entre le "client" et le producteur, commerçant, artisan, dénommés ici “boutique”.
 
 La plateforme de communication Karibou ([karibou.ch](http://karibou.ch)) facilite la connexion entre des individus qui souhaitent acheter des produits alimentaires et une sélection de boutiques répondant à la charte de Karibou qui souhaitent former un marché commun sur internet et proposer à une clientèle élargie une diversité de produits livrables à domicile.
 
