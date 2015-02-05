@@ -2,7 +2,7 @@
 
 ## Service
 
-> Karibou est un facilitateur entre le "client" et le producteur, commerçant, artisan, dénommés ici “boutique”.
+Karibou est un facilitateur entre le "client" et le producteur, commerçant, artisan, dénommés ici “boutique”.
 
 La plateforme de communication Karibou ([karibou.ch](http://karibou.ch)) facilite la connexion entre des individus qui souhaitent acheter des produits alimentaires et une sélection de boutiques répondant à la charte de Karibou qui souhaitent former un marché commun sur internet et proposer à une clientèle élargie une diversité de produits livrables à domicile.
 
@@ -10,11 +10,9 @@ Le client mandate Karibou pour effectuer l'achat et la collecte des marchandises
 
 ## Responsabilité
 
-Le client reconnaît et accepte que Karibou agisse comme intermédiaire pour collecter et livrer ses produits au jour et lieu choisis. Le client accepte de payer l’intégralité de ses produits à Karibou qui est responsable de reverser le montant dû à chaque boutique.
-
-La boutique s’engage à proposer des produits à prix équivalents ou inférieurs à ceux pratiqués dans son propre commerce. La boutique a la responsabilité de fournir des produits de première fraîcheur et qualité et conformes à la description présentée sur le site [karibou.ch](http://karibou.ch).  Elle est également responsable des informations publiées sur le site [karibou.ch](http://karibou.ch) (par ex. descriptions, ingrédients, poids). Concernant les produits à la coupe, elle s'engage à les conditionner le jour de la livraison.
-
 Karibou s’engage à collecter auprès des boutiques tous les produits d’un client le matin du jour de livraison. Le respect de la chaîne du froid et le parfait conditionnement du produit sont garantis.
+
+La boutique s’engage à proposer des produits à prix identiques ou inférieurs à ceux pratiqués dans son propre commerce. La boutique a la responsabilité de fournir des produits de première fraîcheur et qualité et conformes à la description présentée sur le site [karibou.ch](http://karibou.ch).  Elle est également responsable des informations publiées sur le site [karibou.ch](http://karibou.ch) (par ex. descriptions, ingrédients, poids). Concernant les produits à la coupe, elle s'engage à les conditionner le jour de la livraison.
 
 ## Garantie client
 
@@ -78,7 +76,7 @@ Après la confirmation de la commande par Karibou, les articles commandés sont 
 
 ## Horaires de livraison
 
-Le client sélectionne sa date de livraison, la livraison s’effectue entre 16h et 18h.
+> Le client sélectionne sa date de livraison, la livraison s’effectue entre 16h et 18h.
 
 Les heures de livraison peuvent varier à l’intérieur du créneau horaire et occasionnellement se situer en dehors de ce créneau.
 
@@ -92,4 +90,4 @@ En cas de désaccord ou de litige, le client s’engage à collaborer à une mé
 
 Téléphone : 079 377 21 13 / email : info@karibou.ch
 
-Le for juridique de Karibou est sis à Genève, 34 route de Chêne, 1208 Genève et, sous réserve de recours au tribunal fédéral, seuls les tribunaux genevois sont compétents à régler les litiges résultant de l’interprétation et/ou de l’inexécution des présentes conditions.
+Le for juridique de Karibou, Delphine Cluzel Evalet, est sis à Genève, 34 route de Chêne, 1208 Genève et, sous réserve de recours au tribunal fédéral, seuls les tribunaux genevois sont compétents à régler les litiges résultant de l’interprétation et/ou de l’inexécution des présentes conditions.
