@@ -24,13 +24,13 @@ Les denrées qui ne peuvent pas être produites dans la région ou qui apportent
  * production sans engrais, pesticides, herbicides, fongicides chimiques de 	synthèse	
  * gestion économique de l'eau.
 
-## Pour les éleveurs
+# Pour les éleveurs
 * Vous pratiquez un élevage respectueux de l'animal et de ses besoins ;
 * Vos animaux ont largement accès à des espaces de vie extérieurs ;
 * Vos animaux reçoivent des fourrages sains, provenant essentiellement de la ferme et totalement exempts de substances animales, de manipulations génétiques et d'additifs chimiques de synthèse ;
 * En cas de maladies, les animaux doivent si possible d'abord être soignés avec des médecines alternatives. 
 
-## Pour les revendeurs et artisans
+# Pour les revendeurs et artisans
 * Vous proposez une bonne qualité des produits : gustative, sanitaire, environnementale ;
 * Vous utilisez des produits frais ;
 * Les ingrédients utilisés pour la préparation de plats sont d'origine locale quand cela est possible ;
