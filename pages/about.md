@@ -7,9 +7,7 @@ Karibou, c'est des légumes sans chimie de synthèse produits localement, du bon
 Vous commandez directement chez le producteur, l’artisan et l'épicier.
 
 * Vous achetez ce que vous voulez dans les quantités souhaitées 
-
 * Regardez qui [produit et confectionne votre nourriture](https://karibou.ch/shops) 
-
 * Vous payez les produits le même prix que dans la boutique !
 
 ## 2. Nous préparons votre commande
@@ -17,9 +15,7 @@ Vous commandez directement chez le producteur, l’artisan et l'épicier.
 Durant la matinée, nous collectons vos commandes directement chez les producteurs, artisans et épiceries fines. Vous êtes livrés durant l'après-midi.
 
 * Les légumes sont récoltés le matin selon la commande, fraîcheur garantie et pas de gaspillage pour le producteur!
-
 * Nous n'avons aucun stock. Tout est préparé le matin et livré l'après-midi.
-
 * Enfin presque, le pain et les fromage frais sont préparés durant la nuit…
 
 ## 3. Nous livrons à votre porte
@@ -27,9 +23,7 @@ Durant la matinée, nous collectons vos commandes directement chez les producteu
 Vous choisissez votre lieu de livraison (uniquement Genève et Carouge pour l'instant) et nos livreurs vous livrent à vélo. La livraison est effectuée par notre partenaire [cycloservices](http://www.cycloservices.ch/).
 
 * Pour votre première commande la livraison est gratuite.
-
 * Nous respectons l’environnement et assurons une livraison rapide, pas de bouchon !
-
 * Nous livrons tous les  mardi et le vendredi.
 
 # FAQ
