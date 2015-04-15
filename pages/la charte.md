@@ -1,13 +1,13 @@
 # La charte
 Karibou a pour objectif de mettre en relation des producteurs, artisans et revendeurs avec une population urbaine désireuse de s'approvisionner de manière diversifiée auprès des commerces locaux. 
-### Les producteurs, revendeurs ou artisans présents sur notre plateforme s'engagent à :
+## Les producteurs, revendeurs ou artisans présents sur notre plateforme s'engagent à :
 * proposer des produits de haute qualité,
 * donner toutes les informations concernant les aliments mis en vente sur Karibou,
 * gérer leur boutique de manière responsable; le travail de chacun impacte sur le service proposé,
 * protéger leur environnement,
 * respecter les normes sociales par rapport à leur employés, y compris le personnel temporaire.
 
-### Karibou s'engage à :
+## Karibou s'engage à :
 * proposer une plateforme web simple et sécurisée permettant de faire ses 	courses depuis un ordinateur, tablette, smartphone,
 * rencontrer et dialoguer avec les producteurs, artisans et commerçants désireux d'ouvrir un magasin sur le site,
 * vérifier autant que possible la fiabilité des informations données pour chaque produit proposé,
