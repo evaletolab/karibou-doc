@@ -46,7 +46,7 @@ Non, vous n’avez pas besoin d’être à la maison lors de la livraison. Vous 
 
 Oui, votre commande peut être annulée très facilement tant que sa préparation n’a pas débuté. Pour annuler une commande, il vous suffit d’aller dans «Mon Profil» > «L'historique de mes commandes» et cliquer sur «Annuler cette commande»
 
-![image alt text](https://ucarecdn.com/6f8439eb-ce87-4611-981e-fd1c6d5eba8e/-/resize/x200/)
+<img style="float: right" src="https://ucarecdn.com/6f8439eb-ce87-4611-981e-fd1c6d5eba8e/-/resize/x200/"/>
 
 Cependant, nous ne sommes pas capable d’annuler automatiquement une commande en dernière minute. Dans ce cas vous devez demander à chaque commerçant  d’annuler vos articles. J’enlèverai peut-être ça...ça me paraît une complexité supplémentaire. Si le commerçant oublie de nous informer, on va s’apercevoir en faisant les sacs qu’il manque un produit et c’est le stress jusqu’à ce qu’on comprenne que le produit a été annulé en dernière minute
 
@@ -60,4 +60,4 @@ Vous trouverez les coordonnées de chaque producteur, artisan ou épicier ainsi 
 
 Il existe aussi un bouton en bas à gauche de l’écran. Il permet de contacter directement une boutique (lorsque vous êtes sur une page "boutique" ou sur un produit)§. Elle se fera un plaisir de répondre a vos questions.
 
-![image alt text](https://ucarecdn.com/0a4e6346-0c45-4920-9852-673b1c16d346/)
+<img style="float: right" src="https://ucarecdn.com/0a4e6346-0c45-4920-9852-673b1c16d346/-/resize/x100/"/>
