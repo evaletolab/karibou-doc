@@ -1,5 +1,5 @@
 # L’équipe
-![photo de l'équipe](http://www.ucarecdn.com/3200c329-0317-41d9-ac66-8c5bdfb44b44/-/resize/x200/)
+![photo de l'équipe](//ucarecdn.com/3200c329-0317-41d9-ac66-8c5bdfb44b44/-/resize/x200/)
 ## Delphine Cluzel gère le projet
 elle coordonne les aspects humains, techniques, juridiques et financiers. Sa spécificité c'est de *« mettre en commun les compétences de chacun pour proposer un marché en ligne complet, accessible, non pas à une élite mais à une population urbaine mixte désireuse d'allier santé, qualité et protection de leur environnement »*.
 
