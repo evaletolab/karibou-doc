@@ -44,7 +44,7 @@ Non, vous n’avez pas besoin d’être à la maison lors de la livraison. Vous 
 
 ### Puis je annuler ma commande et comment?
 
-Oui, votre commande peut être annulée très facilement tant que sa préparation n’a pas débuté. Pour annuler une commande, il vous suffit d’aller dans «Mon Profil» > «L'historique de mes commandes» et cliquer sur «Annuler cette commande»
+Oui, votre commande peut être annulée très facilement tant que sa préparation n’a pas débuté. Pour annuler une commande, il vous suffit d’aller dans «Mon Profil» > [«L'historique de mes commandes»](/account/orders) et cliquer sur «Annuler cette commande»
 
 ![message](https://ucarecdn.com/6f8439eb-ce87-4611-981e-fd1c6d5eba8e/-/resize/x200/")
 
