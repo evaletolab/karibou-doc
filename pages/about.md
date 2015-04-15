@@ -1,22 +1,63 @@
+Karibou, c'est des légumes sans chimie de synthèse produits localement, du bon pain au feu de bois, des spécialités d’un boucher artisanal, du bon vin, des fromages, du beurre en motte, des préparations orientales et beaucoup d'autre produits à découvrir.
 
-# A propos de Karibou
+![image alt text](https://ucarecdn.com/9b387f19-e03f-470e-ae93-a7c453010268/)
 
-Karibou est une place de marché alimentaire qui permet aux producteurs, commerçants et artisans locaux de proposer leurs produits sur une plateforme web commune et organique.
+1. Faites votre marché
 
-L'économie locale, constituée par les petits commerces, producteurs et artisans, offre une diversité et une qualité de produits et de services. Cependant en terme d'accès et d'organisation, ces acteurs sont souvent isolés. Il en résulte une forte tendance du client à s'approvisionner auprès des grandes chaînes de distribution, qui lui propose simultanément toutes les gammes et la diversité de produits dont il a besoin.
+Vous commandez directement chez le producteur, l’artisan et l'épicier.
 
-Actuellement, des services internet diversifiés voient le jour pour mettre en relation directe vendeurs et clients (business to customers). Ce développement dans le domaine de l'alimentation n'en est toutefois qu'à ses débuts. « Le commerce en ligne a bouleversé de nombreux domaines mais pas l'épicerie, le segment le plus important. Cela représente une immense opportunité » (4).
+* Vous achetez ce que vous voulez dans les quantités souhaitées 
 
-Karibou ambitionne d'investir durablement ce marché en pleine expansion. Il propose un environnement de commerce commun pour faciliter l'entrée dans l'action de l'achat local. Sa particularité se décline autour de 3 principaux axes :
+* Regardez qui [produit et confectionne votre nourriture](https://karibou.ch/shops) 
 
+* Vous payez les produits le même prix que dans la boutique !
 
-#### PLATEFORME COLLABORATIVE
->Les producteurs et commerçants se réunissent pour offrir un marché complet sur internet. Karibou prélève une marge de 15 % sur chaque vente.
+2. Nous préparons votre commande
 
-#### APPLICATION MULTI-DEVICES
->Le client dispose d'un unique point d'entrée ou il peut accéder à ses producteurs et commerçants préférés. Il effectue ses commandes aussi bien depuis son ordinateur, sa tablette ou son téléphone portable.
+Durant la matinée, nous collectons vos commandes directement chez les producteurs, artisans et épiceries fines. Vous êtes livrés durant l'après-midi.
 
-#### STRUCTURE LÉGÈRE
->Karibou gère en flux tendu et en partenariat le regroupement et la livraison des produits à domicile. Il n'a ni entrepôt, ni stocks, ni camion de livraison.
+* Les légumes sont récoltés le matin selon la commande, fraîcheur garantie et pas de gaspillage pour le producteur!
 
-L'objectif collatéral mais primordial de Karibou est de favoriser le développement du tissu économique local et de créer du lien entre la ville et la campagne. En associant des petits producteurs, artisans et revendeurs qui répondent à des critères de préservation de l'environnement, de santé et de qualité de vie, il se positionne dans une économie durable et de proximité.
+* Nous n'avons aucun stock. Tout est préparé le matin et livré l'après-midi.
+
+* Enfin presque, le pain et les fromage frais sont préparés durant la nuit…
+
+3. Nous livrons à votre porte
+
+Vous choisissez votre lieu de livraison (uniquement Genève et Carouge pour l'instant) et nos livreurs vous livrent à vélo. La livraison est effectuée par notre partenaire [cycloservices](http://www.cycloservices.ch/).
+
+* Pour votre première commande la livraison est gratuite.
+
+* Nous respectons l’environnement et assurons une livraison rapide, pas de bouchon !
+
+* Nous livrons tous les  mardi et le vendredi.
+
+# FAQ
+
+* Est ce que nous recyclons?
+
+Oui!  Il vous suffit de remettre les objets consigné à notre livreur lors de votre prochaine livraison. Nous collectons et réutilisons les poches de glace, les sacs Karibou ainsi que tout les contenants avec consigne. Le dépôt vous sera remboursée dès réception des éléments. [Pour l’instant la consigne n’existe pas mais c’est important de préciser...]
+
+* Est ce que j’ai besoin d'être à la maison lors de la livraison ?
+
+Non, vous n’avez pas besoin d’être à la maison lors de la livraison. Vous pouvez choisir de vous faire livrer chez votre voisin ou chez le commerçant du coin avec son accord (NOTE:  nous pouvons contacter le/les commerçants à votre place). Dans ce cas vous aurez mentionné leurs coordonnées dans votre profil (lieu de livraison et note au livreur). Sinon notre livreur déposera le sac Karibou devant votre porte. Les produits sont maintenu au frais pendant un certain temps grâce à nos poches de glace.
+
+* Puis je annuler ma commande et comment?
+
+Oui, votre commande peut être annulée très facilement tant que sa préparation n’a pas débuté. Pour annuler une commande, il vous suffit d’aller dans «Mon Profil» > «L'historique de mes commandes» et cliquer sur «Annuler cette commande»
+
+![image alt text](https://ucarecdn.com/6f8439eb-ce87-4611-981e-fd1c6d5eba8e/)
+
+Cependant, nous ne sommes pas capable d’annuler automatiquement une commande en dernière minute. Dans ce cas vous devez demander à chaque commerçant  d’annuler vos articles. J’enlèverai peut-être ça...ça me paraît une complexité supplémentaire. Si le commerçant oublie de nous informer, on va s’apercevoir en faisant les sacs qu’il manque un produit et c’est le stress jusqu’à ce qu’on comprenne que le produit a été annulé en dernière minute
+
+* Combien de temps à l’avance dois je effectuer ma commande?
+
+2 jours c’est pour l’instant le minimum. Cela donne le temps aux producteurs et artisans de préparer vos produits. Vous pouvez placer votre commande au plus tard dimanche soir (23h00) pour le mardi et jeudi soir (23h00) pour le vendredi. Aussi notre système de paiement ne nous permet pas la réservation d’une commande plus de 7 jours à l’avance.
+
+* Comment puis je contacter un des producteurs, artisans ou petit commerçants?
+
+Vous trouverez les coordonnées de chaque producteur, artisan ou épicier ainsi qu’un petit descriptif de son activité sous l’onglet "boutiques".
+
+Il existe aussi un bouton en bas à gauche de l’écran. Il permet de contacter directement une boutique (lorsque vous êtes sur une page "boutique" ou sur un produit)§. Elle se fera un plaisir de répondre a vos questions.
+
+![image alt text](image_3.png)
