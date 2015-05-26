@@ -16,7 +16,6 @@ Durant la matinée, nous collectons vos commandes directement chez les producteu
 
 ## 3. Nous livrons à votre porte
 Vous choisissez votre lieu de livraison (uniquement Genève et Carouge pour l'instant) et nos livreurs vous livrent à vélo. La livraison est effectuée par notre partenaire [cycloservices](http://www.cycloservices.ch/).
-* Pour votre première commande la livraison est gratuite.
 * Nous respectons l’environnement et assurons une livraison rapide, pas de bouchon !
 * Nous livrons tous les  mardi et le vendredi.
 
