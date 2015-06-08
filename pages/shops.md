@@ -1,8 +1,26 @@
 # Comment cela fonctionne pour le commerçant
 
 ## Karibou.ch qu'est-ce que c'est?
+Karibou.ch est une place de marché - principalement - alimentaire composé de boutiques indépendantes. Karibou met à disposition une infrastructure informatique et une infrastructure de logistique afin de facilité la relation entre les clients et les vendeurs. Chaque vendeurs a sa propre boutique en ligne, avec un système de paiement en ligne intégré. Il profite également d'une infrastructure de logistique complète.
+
+Ainsi, chaque boutique 
+
+facilite la relation entre des individus 
+
+les systèmes de boutiques en ligne et de logistique ainsi qu’un système de paiement en ligne intégré. Les commerçants bénéficient d’un paquet complet d’e-commerce pour distribuer avec succès leurs produits sur
+
+La plateforme de communication Karibou (karibou.ch) facilite la connexion entre des individus qui souhaitent acheter des produits alimentaires et une sélection de boutiques répondant à la charte de Karibou qui souhaitent former un marché commun sur internet et proposer à une clientèle élargie une diversité de produits livrables à domicile.
+
+Le client mandate Karibou pour effectuer l'achat et la collecte des marchandises auprès des différentes boutiques ainsi que la livraison à domicile ou à l’adresse spécifiée par le client pour autant qu’elle se situe dans le périmètre défini par Karibou (cf point "Lieu de livraison").
 
 ## Puis-je proposer mes produits sur karibou.ch?
+Pour proposer vos produits sur 
+* proposer des produits de haute qualité
+* donner toutes les informations concernant les aliments mis en vente sur 	Karibou
+* gérer leur boutique de manière responsable; le travail de chacun impacte sur le service proposé
+* protéger leur environnement
+* respecter les normes sociales par rapport à leur employés, y compris le personnel temporaire.
+
 
 ## Comment puis-je me connecter à karibou.ch?
 
