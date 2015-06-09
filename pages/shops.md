@@ -2,7 +2,7 @@
 
 ## Karibou marketplace qu'est-ce que c'est?
 Karibou.ch est une place de marché - principalement - alimentaire composée de boutiques toutes indépendantes. Karibou met à disposition une infrastructure informatique et une infrastructure de logistique afin de faciliter la relation (en ligne) entre les clients et les vendeurs. Chaque vendeur **possède sa propre boutique en ligne**, le système de paiement en ligne est intégré. Et il dispose également d'une infrastructure de logistique complète.
-> En conrepartie, chaque vendeur à la responssabilité de gérer correctement sa boutique en ligne, ses stocks, ses clients et l'information qui en suit. 
+> En contrepartie, chaque vendeur à la responssabilité de gérer correctement sa boutique en ligne, ses stocks, ses clients et l'information qui en suit. 
 
 
 ## Puis-je proposer mes produits sur karibou?
