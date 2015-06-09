@@ -37,3 +37,8 @@ Le pourcentage est définit par un accord entre karibou et le vendeur. Karibou r
 ## Quelle est ma marge de manoeuvre pour fixer les prix?
 C’est au commerçant de définir ses prix. Cependant, karibou offre à chaque vendeur un système de distribution à tout une ville. Karibou met aussi à disposition un outil de calcul et projection de vente en fonction du prix. L'objectif de karibou est d'aider chaque vendeur à choisir le bon prix, dans le but d'impacter positivement le modèle d'affaire du vendeur. 
 
+## Je souhaite vendre mes produits à des clients commerciaux
+A l’heure actuelle, le public cible de karibou.ch se compose de particuliers, si vous souhaitez vendre vos produits a des clients commerciaux contactez nous [ici](hello@karibou.ch)
+
+Vous êtes le vendeur des marchandises
+Le commerçant qui propose ses produits est le vendeur au sens juridique du terme. karibou intervient exclusivement à titre d’intermédiaire. Dans ce contexte, le commerçant assume la responsabilité de réaliser le contrat de vente.
