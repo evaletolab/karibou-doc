@@ -10,10 +10,11 @@ En principe, Karibou est ouvert à tous les commerçants qui respectent notre ch
 * proposer des produits de haute qualité,
 * donner toutes les informations concernant les aliments mis en vente,
 * gérer leur boutique en ligne de manière responsable; le travail de chacun impacte sur le service proposé,
+* gérer la communication avec les clients lorsque cela est nécessaire,
 * protéger leur environnement,
 * respecter les normes sociales par rapport à leur employés, y compris le personnel temporaire.
 
-Si vous vous intéressez à ouvrir une boutique via karibou.ch, veuillez lire [la charte](https://karibou.ch/page/la-charte) nous contacter [ici](hello@karibou.ch).
+Si vous souhaitez ouvrir votre boutique chez karibou, veuillez lire [la charte](https://karibou.ch/page/la-charte) et nous contacter [ici](hello@karibou.ch).
 
 ## Comment puis-je me connecter à karibou?
 Vous pouvez connecter votre système informatique directement avec Karibou API afin d'automatiser votre gestion des stock et des commandes. Contactez notre [service technique](hello@karibou.ch) pour avoir plus d'information à ce sujet.
@@ -21,18 +22,18 @@ Vous pouvez connecter votre système informatique directement avec Karibou API a
 ## Comment se déroule le trafic des paiements?
 Grâce à notre propre système de paiement, nous nous chargeons pour vous de tout le trafic des paiements avec vos clients, y compris la prise en charge du risque lié aux débiteurs. Vous n’avez donc pas à vous préoccuper des défauts de paiement. 
 
-Lors de la création d'une boutique chez karibou, nous créons pour vous un compte de commerçant. A chaque commande vous devez 
-1. valider les détails de votre commande sur karibou et 
-2. préparer et numéroter chaque commande client.
+Lors de la création d'une boutique chez karibou, nous créons pour vous un compte de commerçant. Chaque commande implique pour vous de, 
+1. valider les détails de votre commande en ligne et 
+2. préparer et numéroter chaque objet de la commande.
 
 Dès que la commande est livrée chez le client, nous créditons le jour même sur votre compte de commerçant le montant de la vente (en soustrayant la provision de vente de karibou). L’argent est automatiquement transféré sur votre compte bancaire une fois par mois. 
 Vous pouvez également procéder en tout temps, de manière autonome et sans préavis, à des transferts d’argent depuis votre compte de commerçant sur votre propre compte bancaire.
 
 ## A combien se montent les frais de vente sur karibou.ch?
-Le modèle économique de karibou est  simple. Nous n’appliquons que des frais de clôture dépendant de votre chiffre d’affaires. Ces frais sont fixés à un certain pourcentage. 
+Le modèle économique de karibou est simple. Nous n’appliquons que des frais de clôture dépendant de votre chiffre d’affaires. Ces frais sont fixés à un certain pourcentage. 
 
-Le pourcentage est lui fixé par un accord entre karibou et le vendeur. Karibou reconnaît que chaque vendeur à une situation économique qui est à considérer individuellement. Notre but étant d'offrir le meilleurs modèle d'affaire possible.  
+Le pourcentage est définit par un accord entre karibou et le vendeur. Karibou reconnaît que chaque vendeur à une situation économique propre et individuellement. Nous adaptons notre modèle d'affaire à celui du vendeur.
 
 ## Quelle est ma marge de manoeuvre pour fixer les prix?
-C’est au commerçant de définir ses prix. Cependant, karibou offre à chaque vendeur un accès étendu à tout une ville. Karibou met aussi à disposition un outil de calcul et projection de vente en fonction du prix. L'objectif de karibou est d'aider chaque vendeur à choisir le bon prix, dans le but d'impacter positivement le modèle d'affaire du vendeur. 
+C’est au commerçant de définir ses prix. Cependant, karibou offre à chaque vendeur un système de distribution à tout une ville. Karibou met aussi à disposition un outil de calcul et projection de vente en fonction du prix. L'objectif de karibou est d'aider chaque vendeur à choisir le bon prix, dans le but d'impacter positivement le modèle d'affaire du vendeur. 
 
