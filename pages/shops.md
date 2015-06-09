@@ -5,7 +5,7 @@ Karibou.ch est une place de marché - principalement - alimentaire composée de 
 > En conrepartie, chaque vendeur à la responssabilité de gérer correctement sa boutique en ligne, ses stocks, ses clients et l'information qui en suit. 
 
 
-## Puis-je proposer mes produits sur karibou.ch?
+## Puis-je proposer mes produits sur karibou?
 En principe, Karibou est ouvert à tous les commerçants qui respectent notre charte. La charte est un élément fondateur du marketplace, elle implique pour le vendeur de :
 * proposer des produits de haute qualité,
 * donner toutes les informations concernant les aliments mis en vente,
@@ -13,7 +13,7 @@ En principe, Karibou est ouvert à tous les commerçants qui respectent notre ch
 * protéger leur environnement,
 * respecter les normes sociales par rapport à leur employés, y compris le personnel temporaire.
 
-Si vous vous intéressez à ouvrir une boutique via karibou.ch, veuillez nous contacter [ici](hello@karibou.ch).
+Si vous vous intéressez à ouvrir une boutique via karibou.ch, veuillez lire [la charte](https://karibou.ch/page/la-charte) nous contacter [ici](hello@karibou.ch).
 
 ## Comment puis-je me connecter à karibou.ch?
 Vous pouvez connecter votre système informatique directement avec Karibou marketplace afin d'automatiser votre gestion des stock et des commandes. Contactez notre [service technique](hello@karibou.ch) pour avoir plus d'information à ce sujet.
