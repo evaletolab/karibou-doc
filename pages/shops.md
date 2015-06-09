@@ -15,8 +15,8 @@ En principe, Karibou est ouvert à tous les commerçants qui respectent notre ch
 
 Si vous vous intéressez à ouvrir une boutique via karibou.ch, veuillez lire [la charte](https://karibou.ch/page/la-charte) nous contacter [ici](hello@karibou.ch).
 
-## Comment puis-je me connecter à karibou.ch?
-Vous pouvez connecter votre système informatique directement avec Karibou marketplace afin d'automatiser votre gestion des stock et des commandes. Contactez notre [service technique](hello@karibou.ch) pour avoir plus d'information à ce sujet.
+## Comment puis-je me connecter à karibou?
+Vous pouvez connecter votre système informatique directement avec Karibou API afin d'automatiser votre gestion des stock et des commandes. Contactez notre [service technique](hello@karibou.ch) pour avoir plus d'information à ce sujet.
 
 ## Comment se déroule le trafic des paiements?
 Grâce à notre propre système de paiement, nous nous chargeons pour vous de tout le trafic des paiements avec vos clients, y compris la prise en charge du risque lié aux débiteurs. Vous n’avez donc pas à vous préoccuper des défauts de paiement. 
