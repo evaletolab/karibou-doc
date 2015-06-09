@@ -32,7 +32,7 @@ Vous pouvez également procéder en tout temps, de manière autonome et sans pr�
 ## A combien se montent les frais de vente sur karibou.ch?
 Le modèle économique de karibou est simple. Nous n’appliquons que des frais de clôture dépendant de votre chiffre d’affaires. Ces frais sont fixés à un certain pourcentage. 
 
-Le pourcentage est définit par un accord entre karibou et le vendeur. Karibou reconnaît que chaque vendeur à une situation économique propre et individuellement. Nous adaptons notre modèle d'affaire à celui du vendeur.
+Le pourcentage est définit par un accord entre karibou et le vendeur. Karibou reconnaît que chaque vendeur à une situation économique propre. En ce sens, nous adaptons notre modèle d'affaire à celui du vendeur.
 
 ## Quelle est ma marge de manoeuvre pour fixer les prix?
 C’est au commerçant de définir ses prix. Cependant, karibou offre à chaque vendeur un système de distribution à tout une ville. Karibou met aussi à disposition un outil de calcul et projection de vente en fonction du prix. L'objectif de karibou est d'aider chaque vendeur à choisir le bon prix, dans le but d'impacter positivement le modèle d'affaire du vendeur. 
