@@ -1,7 +1,7 @@
 # Comment cela fonctionne pour le commerçant
 
-## Karibou marketplace qu'est-ce que c'est?
-Karibou.ch est une place de marché - principalement - alimentaire composée de boutiques toutes indépendantes. Karibou met à disposition une infrastructure informatique et une infrastructure de logistique afin de faciliter la relation (en ligne) entre les clients et les vendeurs. Chaque vendeur **possède sa propre boutique en ligne**, le système de paiement en ligne est intégré. Et il dispose également d'une infrastructure de logistique complète.
+## karibou marketplace qu'est-ce que c'est?
+Karibou est une place de marché - principalement - alimentaire composée de boutiques toutes indépendantes. Karibou met à disposition une infrastructure informatique et une infrastructure de logistique afin de faciliter la relation (en ligne) entre les clients et les vendeurs. Chaque vendeur **possède sa propre boutique en ligne**, le système de paiement en ligne est intégré. Et il dispose également d'une infrastructure de logistique complète.
 > En contrepartie, chaque vendeur a la responsabilité de gérer correctement sa boutique en ligne, ses stocks, ses clients et l'information qui en suit. 
 
 
@@ -29,7 +29,7 @@ Lors de la création d'une boutique chez karibou, nous créons pour vous un comp
 Dès que la commande est livrée chez le client, nous créditons le jour même sur votre compte commerçant le montant de la vente (en soustrayant la commission de vente de karibou). L’argent est automatiquement transféré sur votre compte bancaire une fois par mois. 
 Vous pouvez également procéder en tout temps, de manière autonome et sans préavis, à des transferts d’argent depuis votre compte de commerçant sur votre propre compte bancaire.
 
-## A combien se montent les frais de vente sur karibou.ch?
+## A combien se montent les frais de vente sur karibou?
 Le modèle économique de karibou est simple. Nous n’appliquons que des frais de clôture dépendant de votre chiffre d’affaires. Ces frais sont fixés à un certain pourcentage. 
 
 Le pourcentage est défini par un accord entre karibou et le vendeur. Karibou reconnaît que chaque vendeur à une situation économique propre. En ce sens, nous adaptons notre modèle d'affaire à celui du vendeur.
@@ -38,7 +38,7 @@ Le pourcentage est défini par un accord entre karibou et le vendeur. Karibou re
 C’est au commerçant de définir ses prix. Cependant, karibou offre à chaque vendeur un système de distribution accessible dans toute la ville. Karibou met aussi à disposition un outil de calcul et projection de vente en fonction du prix. L'objectif de karibou est d'aider chaque vendeur à choisir le bon prix, dans le but d'impacter positivement le modèle d'affaire du vendeur. 
 
 ## Je souhaite vendre mes produits à des clients commerciaux
-A l’heure actuelle, le public cible de karibou.ch se compose de particuliers, si vous souhaitez vendre vos produits à des clients commerciaux contactez nous [ici.](hello@karibou.ch)
+A l’heure actuelle, le public cible de karibou se compose de particuliers, si vous souhaitez vendre vos produits à des clients commerciaux contactez nous [ici.](hello@karibou.ch)
 
 ## Qui est le vendeur des marchandises?
 Le commerçant qui propose ses produits est le vendeur au sens juridique du terme. karibou intervient exclusivement à titre d’intermédiaire. Dans ce contexte, le commerçant assume la responsabilité de réaliser le contrat de vente.
