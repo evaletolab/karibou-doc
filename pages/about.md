@@ -1,4 +1,5 @@
 > Karibou, c'est des légumes sans chimie de synthèse produits localement, du bon pain au feu de bois, des spécialités d’un boucher artisanal, du bon vin, des fromages, du beurre en motte, des préparations orientales et beaucoup d'autre produits à découvrir.
+
 ![image alt text](https://ucarecdn.com/9b387f19-e03f-470e-ae93-a7c453010268/)
 
 Karibou est une place de marché - principalement - alimentaire composée de boutiques toutes indépendantes. Karibou met à disposition une infrastructure informatique et une infrastructure de logistique afin de faciliter la relation (en ligne) entre les clients et les vendeurs. Chaque vendeur **possède sa propre boutique en ligne** et dispose également d'une infrastructure de logistique complète.
