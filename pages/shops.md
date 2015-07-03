@@ -14,10 +14,10 @@ En principe, Karibou est ouvert à tous les commerçants qui respectent notre ch
 * protéger leur environnement,
 * respecter les normes sociales par rapport à leur employés, y compris le personnel temporaire.
 
-Si vous souhaitez ouvrir votre boutique chez karibou, veuillez lire [la charte](https://karibou.ch/page/la-charte) et nous contacter [ici](hello@karibou.ch).
+Si vous souhaitez ouvrir votre boutique chez karibou, veuillez lire [la charte](https://karibou.ch/page/la-charte) et nous contacter [ici](mailto:hello@karibou.ch).
 
 ## Comment puis-je connecter mon logiciel à karibou?
-Vous pouvez connecter votre système informatique directement avec Karibou API afin d'automatiser votre gestion des stock et des commandes. Contactez notre [service technique](hello@karibou.ch) pour avoir plus d'informations à ce sujet.
+Vous pouvez connecter votre système informatique directement avec Karibou API afin d'automatiser votre gestion des stock et des commandes. Contactez notre [service technique](mailto:hello@karibou.ch) pour avoir plus d'informations à ce sujet.
 
 ## Comment se déroule le trafic des paiements?
 Grâce à notre propre système de paiement, nous nous chargeons pour vous de tout le trafic des paiements avec vos clients, y compris la prise en charge du risque lié aux débiteurs. Vous n’avez donc pas à vous préoccuper des défauts de paiement. 
@@ -38,7 +38,7 @@ Le pourcentage est défini par un accord entre karibou et le vendeur. Karibou re
 C’est au commerçant de définir ses prix. Cependant, karibou offre à chaque vendeur un système de distribution accessible dans toute la ville. Karibou met aussi à disposition un outil de calcul et projection de vente en fonction du prix. L'objectif de karibou est d'aider chaque vendeur à choisir le bon prix, dans le but d'impacter positivement le modèle d'affaire du vendeur. 
 
 ## Je souhaite vendre mes produits à des clients commerciaux
-A l’heure actuelle, le public cible de karibou se compose de particuliers, si vous souhaitez vendre vos produits à des clients commerciaux contactez nous [ici.](hello@karibou.ch)
+A l’heure actuelle, le public cible de karibou se compose de particuliers, si vous souhaitez vendre vos produits à des clients commerciaux contactez nous [ici.](mailto:hello@karibou.ch)
 
 ## Qui est le vendeur des marchandises?
 Le commerçant qui propose ses produits est le vendeur au sens juridique du terme. karibou intervient exclusivement à titre d’intermédiaire. Dans ce contexte, le commerçant assume la responsabilité de réaliser le contrat de vente.
