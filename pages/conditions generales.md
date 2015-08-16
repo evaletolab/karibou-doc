@@ -60,7 +60,7 @@ Toute commande est confirmée par mail par Karibou. Le débit de votre carte de 
 
 ## Méthodes de paiement
 
-Le client a le choix entre le paiement par carte de crédit ou par PostFinance Card. Karibou s’engage à proposer au fur et à mesure de son développement d’autre méthodes de paiement en ligne.
+Le paiement s'effectue en ligne par carte de crédit. Karibou s’engage à proposer au fur et à mesure de son développement d’autre méthodes de paiement en ligne.
 
 Les factures sont envoyées par mail et s'affichent dans le compte client dans les 2 jours ouvrables suivant la livraison de la commande.
 
