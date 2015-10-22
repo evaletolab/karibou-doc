@@ -16,3 +16,11 @@ Les radis que vous avez commandé sont en rupture de stock, ils ont donc été d
 
 Bien cordialement, Olivier
 de l'équipe Karibou
+
+----
+
+Bonsoir XX,
+
+Merci beaucoup pour votre commande du YY ZZZ. Les radis en mélange que vous avez commandé sont malheureusement en rupture de stock. Le maraîcher les a remplacé par des radis rouge. Si cela ne vous convient pas, faites le nous savoir et nous vous rembourserons le produit.
+
+Bien cordialement, Olivier de l'équipe Karibou
