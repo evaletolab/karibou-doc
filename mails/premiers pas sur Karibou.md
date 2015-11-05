@@ -2,7 +2,7 @@ Bonjour XYZ,
 
 Vous êtes sur karibou.ch depuis peu, merci !
 
-Si vous avez une question sur un produit, la plateforme ou le service, l'équipe et moi-même sommes toujours disponibles pour y répondre.
+Si vous avez une question sur un produit, la plateforme ou le service, l'équipe, les commerçants et moi-même sommes toujours disponibles pour y répondre.
 
 Je vous souhaite une très bonne soirée,
 Delphine
