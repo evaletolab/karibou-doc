@@ -24,3 +24,13 @@ Bonsoir XX,
 Merci beaucoup pour votre commande du YY ZZZ. Les radis en mélange que vous avez commandé sont malheureusement en rupture de stock. Le maraîcher les a remplacé par des radis rouge. Si cela ne vous convient pas, faites le nous savoir et nous vous rembourserons le produit.
 
 Bien cordialement, Olivier de l'équipe Karibou
+
+----
+Désolé de vous contacter une deuxième fois. Une betterave crue au lieu de cuite a été préparée pour votre commande. Le produit a donc été supprimé de votre commande et de la facture.
+
+En espérant que ces erreurs ne vous cause par trop de désagrément.
+Avec nos meilleurs salutations, Olivier pour l'équipe Karibou
+
+----
+Les 2kg de pomme de terre Charlotte que vous avez commandé ont malheureusement été oubliés par le maraîcher. Elles ont donc été supprimées de votre commande. Si vous le souhaitez nous pouvons vous les livrer vendredi gratuitement .
+En espérant que cet oubli ne vous cause par trop de désagrément.
