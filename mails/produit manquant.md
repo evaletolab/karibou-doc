@@ -28,7 +28,7 @@ Bien cordialement, Olivier de l'équipe Karibou
 ----
 Désolé de vous contacter une deuxième fois. Une betterave crue au lieu de cuite a été préparée pour votre commande. Le produit a donc été supprimé de votre commande et de la facture.
 
-En espérant que ces erreurs ne vous cause par trop de désagrément.
+En espérant que ces erreurs ne vous causent par trop de désagrément.
 Avec nos meilleurs salutations, Olivier pour l'équipe Karibou
 
 ----
