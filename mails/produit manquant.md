@@ -19,6 +19,13 @@ de l'équipe Karibou
 
 ----
 
+Il y a eu un petit problème avec les panais que vous avez commandé. Le produit a donc été supprimé de votre commande et de la facture.
+
+En espérant que cette erreur ne vous cause par trop de désagrément.
+Avec nos meilleurs salutations, 
+Olivier de l'équipe Karibou
+
+----
 Bonsoir XX,
 
 Merci beaucoup pour votre commande du YY ZZZ. Les radis en mélange que vous avez commandé sont malheureusement en rupture de stock. Le maraîcher les a remplacé par des radis rouge. Si cela ne vous convient pas, faites le nous savoir et nous vous rembourserons le produit.
